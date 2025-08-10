@@ -1,5 +1,6 @@
-# BarChetaApp
+# BarCheatApp
 Bartenders cheat with AI support
+
 # 🍸 BarCheat
 
 **BarCheat** to inteligentna aplikacja webowa dla barmanów, stworzona z myślą o szybkim generowaniu drinkowych inspiracji. Wystarczy wpisać składnik, wybrać kilka cech — a BarCheat podpowie, co warto zaserwować.
